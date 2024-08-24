@@ -19,7 +19,7 @@ public class Fish extends MarineAnimalAB {
 
     @Override
     public void sleep() {
-        System.out.println("Fish slept.");
+        System.out.println("Fish sleep.");
     }
 
     @Override

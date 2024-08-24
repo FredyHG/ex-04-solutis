@@ -22,6 +22,6 @@ public class Cat extends LandAnimalAB {
     @Override
     public void sleep() {
         hoursSlept += 10;
-        System.out.println("Cat slept for 10 hours.");
+        System.out.println("Cat sleep for 10 hours.");
     }
 }
